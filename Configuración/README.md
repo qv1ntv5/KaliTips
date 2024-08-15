@@ -8,6 +8,12 @@ Podemos configurar atajos de teclado pulsando la tecla Windows:
 Keyboard --> Application Shortcuts
 ```
 
+Además, podemos cambiar la salida del teclado mediante el siguiente comando:
+
+```bash
+sudo dpkg-reconfigure keyboard-configuration
+```
+
 ### Configuración de QTerminal.
 
 Podemos personalizar nuestra Terminal desde la sección superior izquierda de la misma:
