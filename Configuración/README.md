@@ -13,6 +13,7 @@ Además, podemos cambiar la salida del teclado mediante el siguiente comando:
 ```bash
 sudo dpkg-reconfigure keyboard-configuration
 ```
+<br>
 
 ### Configuración de QTerminal.
 
@@ -21,6 +22,7 @@ Podemos personalizar nuestra Terminal desde la sección superior izquierda de la
 ```
 File --> Preferences
 ```
+<br>
 
 #### Zshrc
 
