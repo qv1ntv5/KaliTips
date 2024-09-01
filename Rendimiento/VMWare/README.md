@@ -6,7 +6,7 @@ En el menú de VMWarePro:
 
 - Edit > Preferences > Memory -> Additional memory (1ª Opcion; Fit all virtual machine memory into reserved host RAM)
 
-- Priority > Input grabbed > High
+- Edit > Preferences > Priority > Input grabbed > High
 
 
 En el menú de la propia Kali VM, deshabilitar aceleración 3D.
